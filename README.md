@@ -1,6 +1,6 @@
 # Kristian Lalev
 
-Software engineer in Espoo, Finland. MSc Computer Science student at **Aalto University**, BSc in Software and Systems Engineering from **LUT University**.
+Software engineer in Espoo, Finland. MSc Computer Science student at **Aalto University**, BSc in Software and Systems Engineering from **LUT University** (4.56/5).
 
 I build backend systems, web apps and data pipelines, and I measure what I build: latency, throughput, test coverage, and what breaks under load.
 
@@ -23,10 +23,25 @@ Looking for **Software Engineer** and **Data Engineer** roles.
 
 ## Stack
 
-**Languages:** TypeScript, JavaScript, Python, Java, SQL, C, Scala
-**Web:** React, Next.js, Node.js (Express, Fastify), Spring Boot, FastAPI, REST APIs
-**Data:** PostgreSQL, PostGIS, Kafka (Redpanda), dbt, Dagster, MongoDB
-**Testing and tooling:** Vitest, Playwright, pytest, JUnit, Testcontainers, k6, Docker, GitHub Actions, Linux
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,c,scala&perline=12" alt="TypeScript, JavaScript, Python, Java, C, Scala" />
+
+**Web and backend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&perline=12" alt="React, Next.js, Node.js, Express, Spring Boot, FastAPI" />
+
+**Data**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,prisma&perline=12" alt="PostgreSQL, MongoDB, Kafka, Prisma" />
+
+SQL · PostGIS · dbt · Dagster · Redpanda
+
+**Testing and tooling**
+
+<img src="https://skillicons.dev/icons?i=vitest,docker,githubactions,linux,git&perline=12" alt="Vitest, Docker, GitHub Actions, Linux, Git" />
+
+Playwright · pytest · JUnit · Testcontainers · k6
 
 ## Contact
 
