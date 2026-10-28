@@ -35,13 +35,13 @@ Looking for **Software Engineer** and **Data Engineer** roles.
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,prisma&perline=12" alt="PostgreSQL, MongoDB, Kafka, Prisma" />
 
-SQL · PostGIS · dbt · Dagster · Redpanda
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/PostGIS-2E6E9E?style=for-the-badge" alt="PostGIS" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" /> <img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster" /> <img src="https://img.shields.io/badge/Redpanda-E2401B?style=for-the-badge&logo=redpanda&logoColor=white" alt="Redpanda" />
 
 **Testing and tooling**
 
 <img src="https://skillicons.dev/icons?i=vitest,docker,githubactions,linux,git&perline=12" alt="Vitest, Docker, GitHub Actions, Linux, Git" />
 
-Playwright · pytest · JUnit · Testcontainers · k6
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" /> <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" /> <img src="https://img.shields.io/badge/Testcontainers-17A6B2?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" /> <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
 
 ## Contact
 
